@@ -1,0 +1,24 @@
+[33mcommit 0c8c9b1f3ed753808b116719c5b7089b918150db[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ana <grafica@kaurystore.com.ar>
+Date:   Wed Aug 28 08:33:52 2019 -0300
+
+    Agregamos el cargo de la persona
+    la persona es freddy
+
+[33mcommit bd128aeb417d4f81aacbb267d23bbd2661987efc[m
+Author: Ana <grafica@kaurystore.com.ar>
+Date:   Wed Aug 28 08:27:11 2019 -0300
+
+    agregamos un cambio a su estatura
+
+[33mcommit 181461e1f8b2817aedc812a153d806f454c6de7d[m
+Author: Ana <grafica@kaurystore.com.ar>
+Date:   Mon Aug 26 09:17:25 2019 -0300
+
+    cambios al achivo de hisoria para reflejar la edad correcta
+
+[33mcommit 0ee281c5ec0c805f91627be9fd274f83e2bbc891[m
+Author: Ana <grafica@kaurystore.com.ar>
+Date:   Mon Aug 26 09:05:27 2019 -0300
+
+    Este es el primer commit de este archivo
